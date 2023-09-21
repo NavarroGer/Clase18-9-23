@@ -1,0 +1,57 @@
+
+  
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: lightblue;
+}
+
+ul{
+    list-style-type: none;
+    background-color: #008b8b;
+    padding: 10px;
+    width: 400px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.Item-menu{
+    display: inline;
+   padding: 15px;
+
+}
+.Targetas{
+    max-width: 300px;
+    border: 2px solid darkgreen ;
+    margin: 50px auto;
+    box-shadow: 5px 5px 10px blue,
+                -5px -5px 10px violet;
+
+}
+.img-targeta{
+    width: 100%;
+}
+p{
+    font-size: small;
+}
+h1{
+    background-image: url(./imagenes/9172198.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50%;
+    padding: 80px 20px;
+    margin: 40px 0px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 4rem;
+    text-transform: uppercase;
+    text-shadow: 5px 5px whitesmoke;
+}
+
+span{
+    background-color: yellowgreen;
+}
